@@ -7,6 +7,11 @@ The assignment was to create the layout for a new site in one day.
 - [Adrian Zochowski](https://github.com/Najtu)
 - Habib
 - Thomas
+- [Victor Lanckriet](https://github.com/lanckrietvictor)
+
+## Tools used
+https://startbootstrap.com/template-categories/all/
+https://bootsnipp.com/
 
 ## Screenshots
 
