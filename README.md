@@ -9,3 +9,13 @@ The assignment was to create the layout for a new site in one day.
 - Thomas
 
 ## Screenshots
+
+![Header](https://github.com/lanckrietvictor/Degroof-Petercam/blob/master/README_pictures/Workspace%201_001.png?raw=true)
+---
+![Mission](https://github.com/lanckrietvictor/Degroof-Petercam/blob/master/README_pictures/Workspace%201_002.png?raw=true)
+---
+![Timeline](https://github.com/lanckrietvictor/Degroof-Petercam/blob/master/README_pictures/Workspace%201_003.png?raw=true)
+---
+![Team](https://github.com/lanckrietvictor/Degroof-Petercam/blob/master/README_pictures/Workspace%201_004.png?raw=true)
+---
+![Contact](https://github.com/lanckrietvictor/Degroof-Petercam/blob/master/README_pictures/Workspace%201_005.png?raw=true)
